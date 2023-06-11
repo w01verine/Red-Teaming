@@ -78,4 +78,4 @@ while True:
             udp_src, udp_dst = parse_udp_header(ip_data)
         
         # insert the packet information into the database
-        c.execute("INSERT INTO packets VALUES (NULL, ?, ?, )
+        c.execute("INSERT INTO packets VALUES (NULL, ?, ?,")
