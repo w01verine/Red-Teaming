@@ -1,6 +1,6 @@
-#Created By: Tommie Navitskas 2022
+# Created By: w01verine 2022
 
-#The following will create a dictionary of the top used 45 ports and their OSI Model Layer
+# The following will create a dictionary of the top used 45 ports and their OSI Model Layer
 
 
 port_to_layer = {
