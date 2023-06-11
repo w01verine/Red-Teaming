@@ -1,4 +1,4 @@
-# Written By: Tommie Navitskas 2022
+# Written By: w01verine 2022
 
 # This code extracts basic information from captured packets and sorts them based on certain criteria.
 
